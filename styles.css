@@ -52,7 +52,7 @@ html,body {
 /* adding an image to the background and styling the area with padding*/
 .main-header{
 	background-color: #EEE5EE;
-	background-image: url("Images/headerbg.jpg");
+	background-image: url("images/headerbg.jpg");
 	background-blend-mode: multiply;
 	background-size: cover;
 	padding-bottom: 30px;
